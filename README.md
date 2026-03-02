@@ -32,5 +32,5 @@ Think of it as a technical diary with real outcomes.
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/juliomolina](https://linkedin.com/in/juliomolina) *(update with your actual URL)*
+- LinkedIn: [linkedin.com/in/jmolinasoler](https://www.linkedin.com/in/jmolinasoler/)
 - GitHub: [@jmolinasoler](https://github.com/jmolinasoler)
