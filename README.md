@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 | Date | Entry |
 |---|---|
 | 2026-03-02 | [Week 1 — First entries: Coral TPU, AI agent infrastructure, grid bots](2026/03-week1.md) |
+| 2026-03-03 | [Week 2 — Running your own nodes: Bitcoin pruned + Ethereum light client on a €150 mini PC](2026/03-week2.md) |
 
 ## Connect
 
