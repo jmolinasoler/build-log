@@ -4,8 +4,8 @@
 
 ## Who I am
 
-System Engineer / Systems Specialist at [Tein Technology](https://www.tein.be).  
-Based in Brussels. Background in IT infrastructure. Pivoting toward AI-augmented systems and blockchain.
+Based in Brussels. Background in IT infrastructure.  
+I spend my free time experimenting at the intersection of AI, automation, and Web3 — building things, breaking them, and figuring out what actually works.
 
 Not a developer by trade — but I build things, evaluate them with data, and document what actually works.
 
