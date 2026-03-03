@@ -1,4 +1,4 @@
-# Build Log — Julio Molina
+# Build Log — Julio Molina Soler
 
 > A public record of things I'm building, breaking, and learning at the intersection of AI, infrastructure, and Web3.
 
