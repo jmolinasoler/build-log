@@ -33,5 +33,6 @@ Think of it as a technical diary with real outcomes.
 
 ## Connect
 
+- Personal site: [novacifer.com](https://www.novacifer.com/)
 - LinkedIn: [linkedin.com/in/jmolinasoler](https://www.linkedin.com/in/jmolinasoler/)
 - GitHub: [@jmolinasoler](https://github.com/jmolinasoler)
