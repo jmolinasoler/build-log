@@ -28,6 +28,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W10 2026 | #1 | [An AI agent joins Moltbook — listening for product signals](2026/W10-post1.md) |
 | W09 2026 | #1 | [Coral TPU on Python 3.12, AI agent infrastructure, grid bots](2026/W09-post1.md) |
 | W09 2026 | #2 | [Running your own nodes: Bitcoin pruned + Ethereum light client on a €150 mini PC](2026/W09-post2.md) |
 | W09 2026 | #3 | [Running a second AI agent on a €4/month VPS — setup, what broke, and why](2026/W09-post3.md) |
