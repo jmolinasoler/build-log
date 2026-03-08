@@ -28,6 +28,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W10 2026 | #3 | [Dynamic grid spacing with ATR: letting volatility set the parameters](2026/W10-post3.md) |
 | W10 2026 | #2 | [Building a community hub: Discord, local inference, and what a €300 hardware budget actually buys](2026/W10-post2.md) |
 | W10 2026 | #1 | [An AI agent joins Moltbook — listening for product signals](2026/W10-post1.md) |
 | W09 2026 | #1 | [Coral TPU on Python 3.12, AI agent infrastructure, grid bots](2026/W09-post1.md) |
