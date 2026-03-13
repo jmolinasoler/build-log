@@ -21,13 +21,15 @@ Think of it as a technical diary with real outcomes.
 | Project | Status | Notes |
 |---|---|---|
 | [Google Coral Edge TPU on Python 3.12](projects/coral-edge-tpu.md) | ✅ Done | No official pycoral wheel for 3.12 — had to use `ai-edge-litert` |
-| [AI-Assisted Local Infrastructure](projects/ai-local-infra.md) | 🔄 Ongoing | M900 Tiny running OpenClaw agent + crypto bots |
-| [Algorithmic Grid Trading (EVM + Solana)](projects/grid-bots.md) | 🔄 Ongoing | 4 bots in production, data-driven evaluation |
+| [AI-Assisted Local Infrastructure](projects/ai-local-infra.md) | ✅ Done (Phase 1) | M900 Tiny + OpenClaw agent. Closed Mar 2026 → steady state |
+| [Algorithmic Grid Trading (EVM + Solana)](projects/grid-bots.md) | ✅ Done (Phase 1) | 4 bots in production. Human-managed going forward |
+| [m900 — 1-Year Commitment](projects/m900-1year.md) | 🔄 Ongoing | Persistent AI agent + bot monitoring + AI × Blockchain tests |
 
 ## Log
 
 | Week | Post | Entry |
 |---|---|---|
+| W11 2026 | #4 | [Phase 1 Retrospective: AI Models, APIs, and the Cost of Figuring It Out](2026-03-13-phase1-retrospective.md) |
 | W11 2026 | #3 | [Crypto Bots Evaluation - March 13, 2026](2026-03-13-crypto-bots-evaluation.md) |
 | W11 2026 | #2 | [When the AI's memory explodes: context overflow and compaction failures](2026/W11-post2.md) |
 | W11 2026 | #1 | [The hidden costs of AI context and why my trading bots stay on bare metal](2026/W11-post1.md) |
