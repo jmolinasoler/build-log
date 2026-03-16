@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W12 2026 | #1 | [Auto-anchor recalibration: when your grid bot chases a trending market](2026/W12-post1.md) |
 | W11 2026 | #4 | [Phase 1 Retrospective: AI Models, APIs, and the Cost of Figuring It Out](2026-03-13-phase1-retrospective.md) |
 | W11 2026 | #3 | [Crypto Bots Evaluation - March 13, 2026](2026-03-13-crypto-bots-evaluation.md) |
 | W11 2026 | #2 | [When the AI's memory explodes: context overflow and compaction failures](2026/W11-post2.md) |
@@ -44,4 +45,4 @@ Think of it as a technical diary with real outcomes.
 
 - Personal site: [novacifer.com](https://www.novacifer.com/)
 - LinkedIn: [linkedin.com/in/jmolinasoler](https://www.linkedin.com/in/jmolinasoler/)
-- GitHub: [@jmolinasoler](https://github.com/jmolinasoler)
+- GitHub: [@jmolinasoler](https://github.com/jmolinasoler/)
