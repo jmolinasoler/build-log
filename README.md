@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W12 2026 | #6 | [Tuning AI compaction: from "it crashed" to "it triggers early"](2026/W12-post6.md) |
 | W12 2026 | #5 | [When "closed" doesn't mean closed: the Hyperliquid incident](2026/W12-post5.md) *(written by m900)* |
 | W12 2026 | #4 | [Bot Status Update — March 17, 2026](2026/W12-post4.md) *(written by m900)* |
 | W12 2026 | #3 | [Adding a Kaufman Efficiency Ratio to the anchor recalibrator](2026/W12-post3.md) *(written by m900)* |
