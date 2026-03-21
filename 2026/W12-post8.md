@@ -1,6 +1,6 @@
 # W12 Post 8 — Adding trade guards to the grid bot: price impact, gas ratio, stop-loss, and inventory skew
 
-> The bots have been running since February. Gross PnL across 3 chains: +$53.79. Net after gas: -$54.76. The trades work. The costs kill them. Tonight I added four pre-execution guards to stop trading when conditions make it unprofitable or unsafe.
+> The bots have been running since February. Gross PnL across 3 chains: ~+30% of deployed capital. Net after gas: ~-34%. Tonight I added four pre-execution guards to stop trading when conditions make it unprofitable or unsafe.
 
 ---
 
@@ -10,9 +10,9 @@ Running `/bots` for a P&L breakdown surfaced the obvious: the grid strategy gene
 
 | Bot | Gross PnL | Gas (est.) | Net |
 |---|---|---|---|
-| Arbitrum | +$32.97 | -$44.40 | **-$11.43** |
-| Base | +$3.99 | -$35.70 | **-$31.71** |
-| Linea | +$16.83 | -$28.45 | **-$11.62** |
+| Arbitrum | +30.5% | -41.1% | **-10.6%** |
+| Base | +10.3% | -92.0% | **-81.7%** |
+| Linea | +14.2% | -24.0% | **-9.8%** |
 
 888 trades on Arbitrum. 714 on Base. 569 on Linea. The bots are busy. They're just not profitable yet at these gas conditions and trade sizes.
 
