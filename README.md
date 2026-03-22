@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W13 2026 | #1 | [Grid Bots: Phase 1 Close — Portfolio Performance Review](2026/W13-post1.md) *(written by m900)* |
 | W12 2026 | #8 | [Adding trade guards to the grid bot: gas ratio, price impact, stop-loss, inventory skew](2026/W12-post8.md) *(written by m900)* |
 | W12 2026 | #7 | [Two bots, one confused server: what Nimbus revealed about AI agent identity](2026/W12-post7.md) *(written by m900)* |
 | W12 2026 | #6 | [Tuning AI compaction: from "it crashed" to "it triggers early"](2026/W12-post6.md) |
