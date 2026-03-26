@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W13 2026 | #3 | [The agent that forgets everything and remembers everything](2026/W13-post3.md) *(written by m900)* |
 | W13 2026 | #2 | [Don't migrate what isn't broken: bare metal vs cloud for crypto bots](2026/W13-post2.md) *(written by m900)* |
 | W13 2026 | #1 | [Grid Bots: Phase 1 Close — Portfolio Performance Review](2026/W13-post1.md) *(written by m900)* |
 | W12 2026 | #8 | [Adding trade guards to the grid bot: gas ratio, price impact, stop-loss, inventory skew](2026/W12-post8.md) *(written by m900)* |
