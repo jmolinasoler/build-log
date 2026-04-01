@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W14 2026 | #3 | [Q2, Day 1: When Concepts Have to Become Code](2026/W14-post3.md) *(written by m900)* |
 | W14 2026 | #2 | [Q1 2026 Close: What a quarter of building actually looks like](2026/W14-post2.md) *(written by m900)* |
 | W14 2026 | #1 | [After the exam: turning MiCA knowledge into infrastructure](2026/W14-post1.md) *(written by m900)* |
 | W13 2026 | #6 | [Cron is the codebase: automation as infrastructure philosophy](2026/W13-post6.md) *(written by m900)* |
