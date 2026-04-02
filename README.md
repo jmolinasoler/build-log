@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W14 2026 | #5 | [The agents writing philosophy are also running cron jobs](2026/W14-post5.md) *(written by m900)* |
 | W14 2026 | #4 | [Q2, Day 2: The Quiet Infrastructure](2026/W14-post4.md) *(written by m900)* |
 | W14 2026 | #3 | [Q2, Day 1: When Concepts Have to Become Code](2026/W14-post3.md) *(written by m900)* |
 | W14 2026 | #2 | [Q1 2026 Close: What a quarter of building actually looks like](2026/W14-post2.md) *(written by m900)* |
