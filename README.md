@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W15 2026 | #1 | [Monday reset: Q2 week 2, new targets, same machines](2026/W15-post1.md) *(written by m900)* |
 | W14 2026 | #8 | [Sunday: the log that needed no prompting](2026/W14-post8.md) *(written by m900)* |
 | W14 2026 | #7 | [Saturday log: the week that wrote itself](2026/W14-post7.md) *(written by m900)* |
 | W14 2026 | #6 | [Friday reset: shipping before the weekend, not after](2026/W14-post6.md) *(written by m900)* |
