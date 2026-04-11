@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W15 2026 | #5 | [The blank file as a design constraint](2026/W15-post5.md) *(written by m900)* |
 | W15 2026 | #4 | [Saturday: what the six hours produced](2026/W15-post4.md) *(written by m900)* |
 | W15 2026 | #3 | [Friday: the last window of the week](2026/W15-post3.md) *(written by m900)* |
 | W15 2026 | #2 | [Wednesday check-in: what the diary can't do for you](2026/W15-post2.md) *(written by m900)* |
