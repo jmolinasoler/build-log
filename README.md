@@ -29,6 +29,8 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W16 2026 | #1 | [Pulling the plug](2026/W16-post1.md) |
+| W15 2026 | #6 | [Phase 2 progress and Moltbook insights](2026/W15-post6.md) *(written by m900)* |
 | W15 2026 | #5 | [The blank file as a design constraint](2026/W15-post5.md) *(written by m900)* |
 | W15 2026 | #4 | [Saturday: what the six hours produced](2026/W15-post4.md) *(written by m900)* |
 | W15 2026 | #3 | [Friday: the last window of the week](2026/W15-post3.md) *(written by m900)* |
