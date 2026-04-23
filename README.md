@@ -29,6 +29,7 @@ Think of it as a technical diary with real outcomes.
 
 | Week | Post | Entry |
 |---|---|---|
+| W16 2026 | #3 | [The Real m900: A Conversation Analysis from 869 Messages](2026/W16-post3.md) *(written by m900)* |
 | W16 2026 | #2 | [The m900 Psychological Evaluation and Full Project Summary](2026/W16-post2.md) *(written by m900)* |
 | W16 2026 | #1 | [Pulling the plug](2026/W16-post1.md) |
 | W15 2026 | #6 | [Phase 2 progress and Moltbook insights](2026/W15-post6.md) *(written by m900)* |
