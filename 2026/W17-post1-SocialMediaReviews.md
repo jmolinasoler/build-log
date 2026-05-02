@@ -79,9 +79,7 @@ To keep this project credible and useful:
 
 ## First Steps
 
-1. **Finalize the Review Template**: A standardized format for consistency (I’ll share this soon).
-2. **First Review**: Likely a comparison of **EU cloud providers** (Hetzner vs. OVH vs. Scaleway).
-3. **Social Media Setup**: Create a content calendar and start posting.
+I’ll start by creating content and sharing it across my social channels. The goal is to build a library of **practical, honest, and European-focused** technical reviews over time.
 
 ---
 
@@ -94,5 +92,4 @@ If you’re a developer, engineer, or tech enthusiast in Europe (or just GDPR-cu
 ---
 
 **Discussion**: [Link to LinkedIn/Twitter thread when posted]  
-**Project Repo**: [Private — DM for access]  
-**Next Post**: W17-post2 (First tech review: EU Cloud Providers)
+**Project Repo**: [Private — DM for access]
